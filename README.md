@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **nigamadi2209@gmail.com**
 
-- ⚡ Fun fact **I can sing**
+- ⚡ Fun fact: **I can sing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
