@@ -1,4 +1,5 @@
-<h1 align = "center"> Hi ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Aditya Nigam</h1>
+
+<h1 align = "center"> Hi !<img src="https://github.com/Adi2209/Adi2209/blob/main/68747470733a2f2f70687973696373-unscreen.gif" width="105px">, I'm Aditya Nigam</h1>
 <h3 align="center">Full Stack Developer</h3>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=adi2209&label=Profile%20views&theme=radical&color=0e75b6&style=flat" alt="adi2209" /> </p>
