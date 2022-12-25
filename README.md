@@ -1,9 +1,10 @@
-<h1 align = "center"> Hi there ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Aditya Nigam</h1>
+<h1 align = "center"> Hi ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Aditya Nigam</h1>
 <h3 align="center">Full Stack Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adi2209&label=Profile%20views&theme=radical&color=0e75b6&style=flat" alt="adi2209" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=adi2209&label=Profile%20views&theme=radical&color=0e75b6&style=flat" alt="adi2209" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adi2209&theme=radical&" alt="adi2209" /></a> </p>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Adi2209&theme=discord&column=3&row=2" alt="Adi2209" /> </p>
+
 <h3> About Me:</h3>
 
 - 🌱 I’m currently learning **MERN stack**
@@ -28,8 +29,9 @@
    <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
   <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a><a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 <h3 align="left">Stats:</h3>
-<p><img align="middle" src="https://github-readme-stats.vercel.app/api/top-langs?username=adi2209&show_icons=true&theme=radical&locale=en&layout=compact" alt="adi2209" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adi2209&show_icons=true&theme=radical&locale=en&layout=compact" alt="adi2209" /></p>
 
-<p>&nbsp;<img align="middle" src="https://github-readme-stats.vercel.app/api?username=adi2209&show_icons=true&theme=radical&locale=en" alt="adi2209" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adi2209&show_icons=true&theme=radical&locale=en" alt="adi2209" /></p>
 
-<p><img align="middle" src="https://github-readme-streak-stats.herokuapp.com/?user=adi2209&theme=radical&" alt="adi2209" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adi2209&theme=radical&" alt="adi2209" /></p>
+
