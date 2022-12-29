@@ -1,7 +1,7 @@
 
-<h1 align = "center">  Hi !<img src="https://github.com/Adi2209/Adi2209/blob/main/68747470733a2f2f70687973696373-unscreen.gif" width="105px">, I'm Aditya Nigam</h1>
-<p align="center"
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&center=true&width=435&lines=Full+Stack+Developer" alt="Typing SVG" /></a>
+<h1 align = "center"> Hi !<img src="https://github.com/Adi2209/Adi2209/blob/main/68747470733a2f2f70687973696373-unscreen.gif" width="105px">, I'm Aditya Nigam</h1>
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Nanum+Gothic&size=30&duration=4500&pause=1000&center=true&width=435&lines=Full+Stack+Developer" alt="Typing SVG" /></a>
 </p>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=adi2209&label=Profile%20views&theme=radical&color=0e75b6&style=flat" alt="adi2209" /> </p>
 
