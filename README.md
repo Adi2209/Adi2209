@@ -8,9 +8,9 @@
 
 <h3> About Me:</h3>
 
-- 🌱 I’m currently learning **MERN stack**
+- 🌱 I’m currently learning **Design**
 
-- 💬 Ask me about **DSA**
+- 💬 Ask me about **DSA & Backend Development**
 
 - 📫 How to reach me **nigamadi2209@gmail.com**
 
