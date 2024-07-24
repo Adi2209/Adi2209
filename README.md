@@ -8,9 +8,9 @@
 
 <h3> About Me:</h3>
 
-- 🌱 I’m currently learning **Design**
+- 🌱 I’m currently learning **Golang, Java and gRPC**
 
-- 💬 Ask me about **Go, Java and gRPC **
+- 💬 Ask me about **Backend Development**
 
 - 📫 How to reach me **nigamadi2209@gmail.com**
 
