@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Design**
 
-- 💬 Ask me about **DSA & Backend Development**
+- 💬 Ask me about **Go, Java and gRPC **
 
 - 📫 How to reach me **nigamadi2209@gmail.com**
 
