@@ -8,7 +8,8 @@
 
 <h3> About Me:</h3>
 
-- 🌱 I’m currently learning **Golang, Java and gRPC**
+- [Check my active account: 👨🏻‍💻](https://github.com/AdityaSwiggy) 
+-  🌱 I’m currently learning **Golang, Java and gRPC**
 
 - 💬 Ask me about **Backend Development**
 
